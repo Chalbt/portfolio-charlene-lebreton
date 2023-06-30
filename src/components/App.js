@@ -3,8 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import '../styles/App.css';
 import Header from "./Header";
 import Footer from "./Footer";
-import Accueil from './Accueil';
-import Portfolio from './Portfolio';
+import Accueil from './Accueil/Accueil';
 
 
 function App() {
@@ -12,10 +11,7 @@ function App() {
     <div>
       <Router>
         <Header />
-        <Routes>
-          <Route path="/" exact element={<Accueil />} />
-          <Route path="/portfolio/:id" element={<Portfolio />} />
-        </Routes>
+        <Accueil />
         <Footer />
       </Router>
     </div>   

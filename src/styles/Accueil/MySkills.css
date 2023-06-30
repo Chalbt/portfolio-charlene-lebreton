@@ -1,0 +1,44 @@
+.skills {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.liste-skills {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.each-skill {
+    width: 200px;
+}
+
+.skill-description {
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 10px;
+    height: 150px;
+}
+
+.liste-skills-code {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 30px 20px 30px;
+    align-items: center;
+}
+
+.liste-skills-code p {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 60%;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
