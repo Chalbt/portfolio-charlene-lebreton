@@ -16,8 +16,14 @@
     width: 200px;
 }
 
+.icon-skill {
+    color: chocolate;
+    font-size: 30px;
+}
+
 .skill-description {
-    background-color: aqua;
+    background-color: whitesmoke;
+    color: chocolate;
     border-radius: 20px;
     padding: 5px;
     margin-top: 10px;
@@ -27,8 +33,8 @@
 .liste-skills-code {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 20px 30px 20px 30px;
+    justify-content: space-around;
+    margin: 20px 60px 20px 60px;
     align-items: center;
 }
 
@@ -37,7 +43,8 @@
     width: 100px;
     padding: 10px;
     border-radius: 60%;
-    background-color: aquamarine;
+    background-color: darkseagreen;
+    color: darkolivegreen;
     display: flex;
     align-items: center;
     justify-content: center;

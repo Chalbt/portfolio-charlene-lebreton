@@ -10,28 +10,28 @@ function MySkills() {
             <h3>My skills</h3>
             <div className="liste-skills">
                 <div className="each-skill">
-                    <FontAwesomeIcon icon={faCodeBranch} />
+                    <FontAwesomeIcon icon={faCodeBranch} className="icon-skill"/>
                     <div className="skill-description">
                         <h4>Git Version Control</h4>
                         <p>Efficient collaboration, code management, and seamless project workflow.</p>
                     </div>
                 </div>
                 <div className="each-skill">
-                    <FontAwesomeIcon icon={faCode} />
+                    <FontAwesomeIcon icon={faCode} className="icon-skill"/>
                     <div className="skill-description">
                         <h4>Clean code</h4>
                         <p>Efficient, organized, and easily maintainable software development.</p>
                     </div>
                 </div>
                 <div className="each-skill">
-                    <FontAwesomeIcon icon={faLaptop} />
+                    <FontAwesomeIcon icon={faLaptop} className="icon-skill"/>
                     <div className="skill-description">
                         <h4>Creative Design</h4>
                         <p>Turning ideas into captivating visual experiences.</p>
                     </div>
                 </div>
                 <div className="each-skill">
-                    <FontAwesomeIcon icon={faPen} />
+                    <FontAwesomeIcon icon={faPen} className="icon-skill"/>
                     <div className="skill-description">
                         <h4>Creative Design</h4>
                         <p>Turning ideas into captivating visual experiences.</p>

@@ -1,10 +1,9 @@
-.accueil {
-    margin : 50px 100px 0 100px;
+.contact {
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
-h3 {
-    color: sienna;
+.contact p, h4 {
+    margin: 5px;
 }
