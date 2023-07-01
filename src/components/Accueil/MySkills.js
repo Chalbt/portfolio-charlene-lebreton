@@ -1,7 +1,6 @@
 import "../../styles/Accueil/MySkills.css"
 import Skill from "./Skill";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faPen, faCode, faLaptop, faCodeBranch, faP } from '@fortawesome/free-solid-svg-icons';
+import { faCode, faLaptop, faCodeBranch, faPen } from '@fortawesome/free-solid-svg-icons';
 import HtmlImage from "../../assets/html.png";
 import CssImage from "../../assets/css.png";
 import JsImage from "../../assets/js.png";
