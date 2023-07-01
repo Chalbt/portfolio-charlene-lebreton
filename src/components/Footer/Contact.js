@@ -1,4 +1,4 @@
-import '../styles/Contact.css'
+import '../../styles/Contact.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 function Contact({ logo, title, description }) {

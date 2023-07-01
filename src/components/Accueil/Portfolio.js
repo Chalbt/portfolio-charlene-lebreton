@@ -2,9 +2,11 @@ import '../../styles/Accueil/Portfolio.css'
 
 function Portfolio() {
     return(
-        <div className='portfolio' id='portfolio'>
-            <h3>Portfolio</h3>
-
+        <div>
+            <div className='id' id='portfolio'></div>
+                <div className='portfolio'>
+                <h3>Portfolio</h3>
+            </div>
         </div>
     )
 }
