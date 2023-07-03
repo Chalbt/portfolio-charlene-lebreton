@@ -1,5 +1,5 @@
 import '../../styles/Accueil/Portfolio.css';
-import Slider from './Slider';
+import SliderComponent from './SliderComponent';
 
 
 function Portfolio() {
@@ -8,7 +8,7 @@ function Portfolio() {
             <div className='id' id='portfolio'></div>
                 <div className='portfolio'>
                     <h3>Portfolio</h3>
-                    <Slider />
+                    <SliderComponent />
                 </div>
         </div>
     )
