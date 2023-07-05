@@ -21,22 +21,22 @@ function MySkills() {
                     <Skill
                         logo={faCodeBranch}
                         title="Git Version Control"
-                        description="Efficient collaboration, code management, and seamless project workflow."
+                        description="Proficient in version control and collaboration using Git for web development."
                     />
                     <Skill
                         logo={faCode}
-                        title="Clean code"
-                        description="Efficient, organized, and easily maintainable software development."
+                        title="SEO"
+                        description="Skilled in implementing SEO strategies and optimizing websites for search engines."
                     />
                     <Skill
                         logo={faLaptop}
-                        title="Creative design"
-                        description="Turning ideas into captivating visual experiences."
+                        title="Responsive design"
+                        description="Proficient in creating responsive designs that ensure optimal user experience across various devices and screen sizes."
                     />
                     <Skill
                         logo={faPen}
                         title="Creative design"
-                        description="Turning ideas into captivating visual experiences."
+                        description="Skilled in creative design, leveraging artistic flair and innovative thinking to deliver visually captivating and engaging digital experiences."
                     />
                 </div>
                 <div className="liste-skills-code">
