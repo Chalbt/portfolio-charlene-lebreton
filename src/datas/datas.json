@@ -1,0 +1,79 @@
+[
+	{
+		"id": "1",
+		"title": "Booki",
+		"description": "Booki est une start-up qui souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix",
+		"statut": "Développeur web en alternance",
+        "missions": "Difficultés rencontrées : Redimensionnement des images, en fonction des div parents et enfants ",
+		"competences": [
+			"Installer un environnement de développement front-end",
+			"Utilisation de GitHub et savoir versionner un projet avec git et GitHub",
+			"Implémenter une interface responsive en HTML et CSS",
+			"Intégrer du contenu conformément à une maquette HTML et CSS"
+		],
+		"lien": "https://chalbt.github.io/PROJET_2/"
+	},
+
+    {
+		"id": "2",
+		"title": "Portfolio Sophie Bluel",
+		"description": "Booki est une start-up qui souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix",
+		"statut": "Développeur web en alternance",
+        "missions": "Difficultés rencontrées : Redimensionnement des images, en fonction des div parents et enfants ",
+		"competences": [
+			"Installer un environnement de développement front-end",
+			"Utilisation de GitHub et savoir versionner un projet avec git et GitHub",
+			"Implémenter une interface responsive en HTML et CSS",
+			"Intégrer du contenu conformément à une maquette HTML et CSS"
+		],
+		"lien": "https://chalbt.github.io/PROJET_2/"
+	},
+
+    {
+		"id": "3",
+		"title": "Site de la photographe Nina Carducci",
+		"description": "Booki est une start-up qui souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix",
+		"statut": "Développeur web en alternance",
+        "missions": "Difficultés rencontrées : Redimensionnement des images, en fonction des div parents et enfants ",
+		"competences": [
+			"Installer un environnement de développement front-end",
+			"Utilisation de GitHub et savoir versionner un projet avec git et GitHub",
+			"Implémenter une interface responsive en HTML et CSS",
+			"Intégrer du contenu conformément à une maquette HTML et CSS",
+            "Utilisation de Figma"
+		],
+		"lien": "https://chalbt.github.io/PROJET_2/"
+	},
+
+    {
+		"id": "4",
+		"title": "Kasa",
+		"description": "Booki est une start-up qui souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix",
+		"statut": "Développeur web en alternance",
+        "missions": "Difficultés rencontrées : Redimensionnement des images, en fonction des div parents et enfants ",
+		"competences": [
+			"Installer un environnement de développement front-end",
+			"Utilisation de GitHub et savoir versionner un projet avec git et GitHub",
+			"Implémenter une interface responsive en HTML et CSS",
+			"Intégrer du contenu conformément à une maquette HTML et CSS"
+		],
+		"lien": "https://chalbt.github.io/PROJET_2/"
+	},
+
+    {
+		"id": "5",
+		"title": "Mon Vieux Grimoire",
+		"description": "Booki est une start-up qui souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix",
+		"statut": "Développeur web en alternance",
+        "missions": "Difficultés rencontrées : Redimensionnement des images, en fonction des div parents et enfants ",
+		"difficultes" : "njfhfhhherihri",
+        "competences": [
+			"Installer un environnement de développement front-end",
+			"Utilisation de GitHub et savoir versionner un projet avec git et GitHub",
+			"Implémenter une interface responsive en HTML et CSS",
+			"Intégrer du contenu conformément à une maquette HTML et CSS"
+		],
+		"lien": "https://chalbt.github.io/PROJET_2/"
+	}
+
+]
