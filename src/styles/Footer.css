@@ -21,3 +21,16 @@
     margin-top: 30px;
     color: darkolivegreen;
 }
+
+@media screen and (max-width: 767px) {
+
+    .each-contact {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .contact {
+        margin-bottom: 20px;
+    }
+
+}

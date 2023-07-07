@@ -67,3 +67,43 @@
     }
 
 }
+
+@media screen and (max-width: 767px) {
+
+    .about-me {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .presentation {
+        width: auto;
+    }
+
+    .about-accroche {
+        position: relative;
+        width: 100%;
+    }
+
+    .about-opportunities {
+        display: flex;
+        text-align: center;
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    .background-about {
+        position: relative;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 300px;
+        opacity: 0.6;
+        margin-left: 0;
+      }
+
+      .lets-connect {
+        font-size: 20px;
+      }
+
+}

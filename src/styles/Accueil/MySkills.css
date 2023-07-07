@@ -77,3 +77,32 @@
     }
 
 }
+
+@media screen and (max-width: 767px) {
+
+    .myskills {
+        padding: 0 20px 30px 20px
+    }
+
+    .icon-skill {
+        font-size: 20px;
+    }
+
+    .skills {
+        margin-bottom: 30px;
+    }
+
+    .skill-description {
+        margin-top: 5px;
+    }
+
+    .liste-skills-code {
+        margin: 0;
+    }
+
+    .liste-skills-code img {
+        width: 30px;
+        height: 30px;
+    }
+
+}

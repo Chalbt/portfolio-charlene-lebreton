@@ -8,7 +8,7 @@ import Accueil from './Accueil/Accueil';
 
 function App() {
   return (
-    <div>
+    <div className='body'>
       <Router>
         <Header />
         <Accueil />

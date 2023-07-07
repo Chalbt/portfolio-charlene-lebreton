@@ -70,3 +70,36 @@
     }
     
 }
+
+@media screen and (max-width: 767px) {
+
+    .background-img {
+        width: 100%;
+    }
+
+    .menu-header {
+        width: 100%;
+        background-color: white;
+    }
+
+    .menu-header a {
+        font-size: 15px;
+    }
+
+    .menu-header ul {
+        height: 20px;
+        margin-top: 10px;
+    }
+
+    .header-text h4 {
+        font-size: 30px;
+    }
+
+    .header-content {
+        width: 100%;
+    }
+
+    .background-img {
+        position: absolute;
+    }
+}
