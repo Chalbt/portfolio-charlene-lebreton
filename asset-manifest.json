@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio-charlene-lebreton/static/css/main.5a11bc01.css",
-    "main.js": "/portfolio-charlene-lebreton/static/js/main.2255bb59.js",
-    "static/js/787.2f28eda4.chunk.js": "/portfolio-charlene-lebreton/static/js/787.2f28eda4.chunk.js",
-    "static/media/sophie-bluel.png": "/portfolio-charlene-lebreton/static/media/sophie-bluel.80679e9163ea1925c9fb.png",
-    "static/media/nina-carducci.png": "/portfolio-charlene-lebreton/static/media/nina-carducci.bd95ec5124b126fc8cd6.png",
-    "static/media/booki.png": "/portfolio-charlene-lebreton/static/media/booki.f8a4100591a255c64048.png",
-    "static/media/grimmoire.png": "/portfolio-charlene-lebreton/static/media/grimmoire.06e5468047e789b6075d.png",
-    "static/media/kasa.png": "/portfolio-charlene-lebreton/static/media/kasa.d8d041ce6350c76bd7bb.png",
-    "static/media/fond-rond-beige.png": "/portfolio-charlene-lebreton/static/media/fond-rond-beige.745021d4f3a70920d0ca.png",
-    "static/media/image-background.jpg": "/portfolio-charlene-lebreton/static/media/image-background.58a084bb00d4b928b8bb.jpg",
-    "static/media/mongodb.png": "/portfolio-charlene-lebreton/static/media/mongodb.6b3d842f55a44bedb9e2.png",
-    "static/media/react.png": "/portfolio-charlene-lebreton/static/media/react.9f56afd377aa48146ea3.png",
-    "static/media/html.png": "/portfolio-charlene-lebreton/static/media/html.69bd33a3f947d31c1b8e.png",
-    "static/media/css.png": "/portfolio-charlene-lebreton/static/media/css.fa9acf9f257a76fa3545.png",
-    "static/media/js.png": "/portfolio-charlene-lebreton/static/media/js.060b2e4e8ceb4e6f44a7.png",
-    "static/media/node-js.png": "/portfolio-charlene-lebreton/static/media/node-js.817b3d577f1482d2b94a.png",
-    "index.html": "/portfolio-charlene-lebreton/index.html",
-    "main.5a11bc01.css.map": "/portfolio-charlene-lebreton/static/css/main.5a11bc01.css.map",
-    "main.2255bb59.js.map": "/portfolio-charlene-lebreton/static/js/main.2255bb59.js.map",
-    "787.2f28eda4.chunk.js.map": "/portfolio-charlene-lebreton/static/js/787.2f28eda4.chunk.js.map"
+    "main.css": "/portfolio-charlene/static/css/main.5a11bc01.css",
+    "main.js": "/portfolio-charlene/static/js/main.53e6673d.js",
+    "static/js/787.2f28eda4.chunk.js": "/portfolio-charlene/static/js/787.2f28eda4.chunk.js",
+    "static/media/sophie-bluel.png": "/portfolio-charlene/static/media/sophie-bluel.80679e9163ea1925c9fb.png",
+    "static/media/nina-carducci.png": "/portfolio-charlene/static/media/nina-carducci.bd95ec5124b126fc8cd6.png",
+    "static/media/booki.png": "/portfolio-charlene/static/media/booki.f8a4100591a255c64048.png",
+    "static/media/grimmoire.png": "/portfolio-charlene/static/media/grimmoire.06e5468047e789b6075d.png",
+    "static/media/kasa.png": "/portfolio-charlene/static/media/kasa.d8d041ce6350c76bd7bb.png",
+    "static/media/fond-rond-beige.png": "/portfolio-charlene/static/media/fond-rond-beige.745021d4f3a70920d0ca.png",
+    "static/media/image-background.jpg": "/portfolio-charlene/static/media/image-background.58a084bb00d4b928b8bb.jpg",
+    "static/media/mongodb.png": "/portfolio-charlene/static/media/mongodb.6b3d842f55a44bedb9e2.png",
+    "static/media/react.png": "/portfolio-charlene/static/media/react.9f56afd377aa48146ea3.png",
+    "static/media/html.png": "/portfolio-charlene/static/media/html.69bd33a3f947d31c1b8e.png",
+    "static/media/css.png": "/portfolio-charlene/static/media/css.fa9acf9f257a76fa3545.png",
+    "static/media/js.png": "/portfolio-charlene/static/media/js.060b2e4e8ceb4e6f44a7.png",
+    "static/media/node-js.png": "/portfolio-charlene/static/media/node-js.817b3d577f1482d2b94a.png",
+    "index.html": "/portfolio-charlene/index.html",
+    "main.5a11bc01.css.map": "/portfolio-charlene/static/css/main.5a11bc01.css.map",
+    "main.53e6673d.js.map": "/portfolio-charlene/static/js/main.53e6673d.js.map",
+    "787.2f28eda4.chunk.js.map": "/portfolio-charlene/static/js/787.2f28eda4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a11bc01.css",
-    "static/js/main.2255bb59.js"
+    "static/js/main.53e6673d.js"
   ]
 }
