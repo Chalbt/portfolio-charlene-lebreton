@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio-charlene-lebreton/static/css/main.1bb5c99f.css",
-    "main.js": "/portfolio-charlene-lebreton/static/js/main.c824e896.js",
+    "main.css": "/portfolio-charlene-lebreton/static/css/main.5a11bc01.css",
+    "main.js": "/portfolio-charlene-lebreton/static/js/main.2255bb59.js",
     "static/js/787.2f28eda4.chunk.js": "/portfolio-charlene-lebreton/static/js/787.2f28eda4.chunk.js",
     "static/media/sophie-bluel.png": "/portfolio-charlene-lebreton/static/media/sophie-bluel.80679e9163ea1925c9fb.png",
     "static/media/nina-carducci.png": "/portfolio-charlene-lebreton/static/media/nina-carducci.bd95ec5124b126fc8cd6.png",
     "static/media/booki.png": "/portfolio-charlene-lebreton/static/media/booki.f8a4100591a255c64048.png",
+    "static/media/grimmoire.png": "/portfolio-charlene-lebreton/static/media/grimmoire.06e5468047e789b6075d.png",
     "static/media/kasa.png": "/portfolio-charlene-lebreton/static/media/kasa.d8d041ce6350c76bd7bb.png",
     "static/media/fond-rond-beige.png": "/portfolio-charlene-lebreton/static/media/fond-rond-beige.745021d4f3a70920d0ca.png",
     "static/media/image-background.jpg": "/portfolio-charlene-lebreton/static/media/image-background.58a084bb00d4b928b8bb.jpg",
@@ -15,17 +16,13 @@
     "static/media/css.png": "/portfolio-charlene-lebreton/static/media/css.fa9acf9f257a76fa3545.png",
     "static/media/js.png": "/portfolio-charlene-lebreton/static/media/js.060b2e4e8ceb4e6f44a7.png",
     "static/media/node-js.png": "/portfolio-charlene-lebreton/static/media/node-js.817b3d577f1482d2b94a.png",
-    "static/media/slick.svg": "/portfolio-charlene-lebreton/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/portfolio-charlene-lebreton/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/portfolio-charlene-lebreton/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/portfolio-charlene-lebreton/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio-charlene-lebreton/index.html",
-    "main.1bb5c99f.css.map": "/portfolio-charlene-lebreton/static/css/main.1bb5c99f.css.map",
-    "main.c824e896.js.map": "/portfolio-charlene-lebreton/static/js/main.c824e896.js.map",
+    "main.5a11bc01.css.map": "/portfolio-charlene-lebreton/static/css/main.5a11bc01.css.map",
+    "main.2255bb59.js.map": "/portfolio-charlene-lebreton/static/js/main.2255bb59.js.map",
     "787.2f28eda4.chunk.js.map": "/portfolio-charlene-lebreton/static/js/787.2f28eda4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bb5c99f.css",
-    "static/js/main.c824e896.js"
+    "static/css/main.5a11bc01.css",
+    "static/js/main.2255bb59.js"
   ]
 }
