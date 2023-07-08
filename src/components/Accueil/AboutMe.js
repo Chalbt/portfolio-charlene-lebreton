@@ -15,7 +15,7 @@ function AboutMe() {
                 <div className="about-accroche">
                     <div className="background-about" style={{ backgroundImage: `url(${FondAbout})` }}></div>
                     <div className="about-opportunities">
-                        <p>"I'm excited about new job opportunities where I can make a meaningful impact, continue learning, and grow professionally. If you have an exciting opportunity that aligns with my skills and experience, feel free to get in touch.</p>
+                        <p>I'm excited about new job opportunities where I can make a meaningful impact, continue learning, and grow professionally. If you have an exciting opportunity that aligns with my skills and experience, feel free to get in touch.</p>
                         <p className="lets-connect">Let's connect and explore the possibilities together !</p>
                     </div>
                 </div>

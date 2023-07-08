@@ -16,7 +16,7 @@ function Header() {
             </div>
             <div className='header-text'>
                 <h4>Hi there !</h4>
-                <h1>My name is Charlène and I am a passionate front-end developer with a keen eye for UI design.</h1>
+                <h1>My name is Charlène and I am a passionate front-end developer with a keen eye for UI Design.</h1>
             </div>
         </div>
     </div>

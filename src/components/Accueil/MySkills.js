@@ -16,7 +16,7 @@ function MySkills() {
         <div>
             <div className='id' id="skills"></div>
             <div className='myskills'>
-                <h3>My skills</h3>
+                <h3>Skills</h3>
                 <div className="each-skill">
                     <Skill
                         logo={faCodeBranch}

@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  font-family: 'Ysabeau Infant', sans-serif;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

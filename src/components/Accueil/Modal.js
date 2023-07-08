@@ -13,16 +13,16 @@ function Modal({ project, onClose, modalOpen }) {
         <div className="modal-content">
           <h2>{project.title}</h2>
           <p>{project.description}</p>
-          <p>Statut: {project.statut}</p>
-          <p>Missions: {project.missions}</p>
-          <p>Diificultés rencontrés : {project.difficultes}</p>
-          <p>Compétences :</p>
+          <p>Position: {project.statut}</p>
+          <p>Responsabilities: {project.missions}</p>
+          <p>Challenges faced : {project.difficultes}</p>
+          <p>Skills :</p>
           <ul>
             {project.competences.map((competence, index) => (
               <li key={index}>{competence}</li>
             ))}
           </ul>
-          <a href={project.lien} target="_blank" rel="noopener noreferrer">Voir le projet</a>
+          <a href={project.lien} target="_blank" rel="noopener noreferrer">Explore the project</a>
         </div>
       </div>
     );

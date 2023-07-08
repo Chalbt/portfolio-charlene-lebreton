@@ -2,44 +2,44 @@
 	{
 		"id": "1",
 		"title": "Booki",
-		"description": "Booki est une start-up qui souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix",
-		"statut": "Développeur web en alternance",
-        "missions": "Réalisation de l'interface du site avec du code HTML et CSS.",
-        "difficultes": "Redimensionnement des images, bien déterminer les <div> parents et enfants.",
+		"description": "Booki is a start-up that aims to develop a website that allows users to find accommodations and activities in the city of their choice.",
+		"statut": "Web Developer Intern",
+        "missions": "Implementing the website interface using HTML and CSS code.",
+        "difficultes": "Resizing images and properly defining parent and child <div> elements. A well-structured and organized code, along with thoughtful class naming, allows for better management of image sizing.",
 		"competences": [
-			"Installer un environnement de développement front-end",
-			"Utilisation de GitHub et savoir versionner un projet avec git et GitHub",
-			"Implémenter une interface responsive en HTML et CSS",
-			"Intégrer du contenu conformément à une maquette HTML et CSS"
+			"Setting up a front-end development environment",
+            "Using GitHub and versioning a project with git and GitHub",
+            "Implementing a responsive interface using HTML and CSS",
+            "Integrating content according to an HTML and CSS design"
 		],
 		"lien": "https://chalbt.github.io/PROJET_2/"
 	},
 
     {
 		"id": "2",
-		"title": "Portfolio de l'architecte Sophie Bluel",
-		"description": "L’agence ArchiWebos est en charge de la conception du site portfolio de Sophie Bluel, architecte d’intérieur.",
-		"statut": "Développeur front-end en renfort dans une équipe de l’agence.",
-        "missions": "Développer la page de présentation des travaux de l’architecte, la page de connexion de l’administrateur du site et la modale permettant d’uploader de nouveaux médias.",
-        "difficultes": "",
+		"title": "Portfolio of Architect Sophie Bluel",
+		"description": "ArchiWebos agency is responsible for designing the portfolio website of interior architect Sophie Bluel.",
+		"statut": "Front-end Developer assisting a team at the agency",
+        "missions": "Developing the architect's work presentation page, the site administrator's login page, and the modal for uploading new media.",
+        "difficultes": "One of the biggest challenges in this project was building a function from scratch. To achieve the best result, I approached it step by step, carefully constructing my functions.",
 		"competences": [
-			"Manipuler les éléments du DOM avec Javascript",
-			"Récupérer les données utilisateurs dans le Javascript via des formulaires",
-			"Gérer les évènements utilisateurs avec Javascript"
+			"Manipulating DOM elements with JavaScript",
+            "Retrieving user data in JavaScript using forms",
+            "Handling user events with JavaScript"
 		],
 		"lien": "https://github.com/Chalbt/Portfolio-architecte-sophie-bluel.git"
 	},
 
     {
 		"id": "3",
-		"title": "Site de la photographe Nina Carducci",
-		"description": "L’un de mes services est de proposer l’optimisation SEO à de nouveaux clients. Nina Carducci est une photographe qui fait partie de mes prospects.",
-		"statut": "Développeur freelance",
-        "missions": "Développer la page de présentation des travaux de l’architecte, la page de connexion de l’administrateur du site et la modale permettant d’uploader de nouveaux médias.",
-        "difficultes": "",
+		"title": "Photographer Nina Carducci's Website",
+		"description": "One of my services is offering SEO optimization to new clients. Nina Carducci is a photographer who is among my prospects.",
+		"statut": "Freelance Developer",
+        "missions": "Developing the architect's work presentation page, the site administrator's login page, and the modal for uploading new media.",
+        "difficultes": "Improving performance was the most important part of this project. It required focusing on image resizing, proper tag placement in HTML code, especially <script> tags, and file minification.",
 		"competences": [
-			"Optimiser les performances et le référencement d’un site web",
-			"Rédiger un cahier de recette pour tester un site"
+			"Optimizing website performance and SEO",
+            "Creating a test plan to validate website functionality"
 		],
 		"lien": "https://chalbt.github.io/nina-carducci.github.io/"
 	},
@@ -47,28 +47,28 @@
     {
 		"id": "4",
 		"title": "Kasa",
-		"description": "Kasa fait partie des leaders de la location d’appartements entre particuliers en France. Une refonte totale pour passer à une stack complète en JavaScript avec NodeJS côté back-end, et React côté front-end est lancée.",
-		"statut": "Développeur front-end en freelance",
-        "missions": "Démarrer le projet React et développer l’ensemble de l’application ainsi que les composants et les routes, en suivant la maquette fournie.",
-        "difficultes": "",
+		"description": "Kasa is one of the leaders in peer-to-peer apartment rentals in France. They have launched a complete overhaul to transition to a full JavaScript stack with Node.js on the backend and React on the frontend.",
+		"statut": "Freelance Front-end Developer",
+        "missions": "Initiating the React project and developing the entire application, including components and routes, following the provided design.",
+        "difficultes": "Building the slider was a major challenge, as there were several conditions to meet, such as navigation arrows and image counters not being displayed on single-image sliders. The key aspect here was understanding the function's functionality to integrate this feature properly.",
 		"competences": [
-            "Initialiser une application avec React App",
-            "Configurer la navigation entre les pages de l’application avec React Router",
-            "Développer les éléments de l’interface d’un site web grâce aux composants React"
+            "Initializing an application with React App",
+            "Configuring navigation between application pages with React Router",
+            "Developing website interface elements using React components"
 		],
-		"lien": ""
+		"lien": "https://github.com/Chalbt/PROJET-6.git"
 	},
 
     {
 		"id": "5",
 		"title": "Mon Vieux Grimoire",
-		"description": "Le Vieux Grimoire est une petite chaîne de librairies située à Lille qui souhaite ouvrir un site de référencement et de notation de livre.",
-		"statut": "Développeur back-end en freelance",
-        "missions": "Travailler avec un développeur front-end en mutualisant nos compétences sur un nouveau projet Mon Vieux Grimoire. Pour cela, je suis en charge du développent de toute la partie back-end.",
-		"difficultes" : "",
+		"description": "Le Vieux Grimoire is a small bookstore chain located in Lille that wants to launch a website for book reference and rating.",
+		"statut": "Freelance Back-end Developer",
+        "missions": "Collaborating with a front-end developer to combine our skills on a new project called Mon Vieux Grimoire. My responsibility is to develop the entire back-end part.",
+		"difficultes" : "For the construction of the REST API, careful attention to the code writing process was crucial to avoid typos and errors. Attention to detail was paramount in this project.",
         "competences": [
-			"Implémenter un modele logique de données conformément à la réglementation",
-            "Stocker des données et mettre en oeuvre des opérations CRUD de manière sécurisée"
+			"Implementing a logical data model in compliance with regulations",
+            "Storing data and implementing secure CRUD operations"
 		],
 		"lien": "https://github.com/Chalbt/PROJET-7-Grimmoire.git"
 	}

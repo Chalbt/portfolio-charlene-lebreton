@@ -22,7 +22,7 @@ function Footer() {
                     <Contact
                         logo={faHashtag}
                         title="Social media"
-                        description="Description du contact 3"
+                        description={<a href="https://github.com/Chalbt">My GitHub profil</a>}
                     />
                 </div>
             </div>

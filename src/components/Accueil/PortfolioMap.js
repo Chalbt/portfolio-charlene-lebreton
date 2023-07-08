@@ -4,10 +4,11 @@ import Booki from "../../assets/booki.png";
 import Sophie from "../../assets/sophie-bluel.png";
 import Nina from "../../assets/nina-carducci.png";
 import Kasa from "../../assets/kasa.png";
+import Grimoire from "../../assets/grimmoire.png"
 import "../../styles/Portfoliomap.css";
 import Modal from './Modal';
 
-const images = [Booki, Sophie, Nina, Kasa, Kasa];
+const images = [Booki, Sophie, Nina, Kasa, Grimoire];
 
 function PortfolioMap() {
   const [hoveredProject, setHoveredProject] = useState(null);

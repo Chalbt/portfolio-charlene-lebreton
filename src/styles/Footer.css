@@ -16,6 +16,11 @@
     justify-content: space-around;
 }
 
+.each-contact a {
+    text-decoration: none;
+    color: darkolivegreen;;
+}
+
 .footer h3 {
     margin-bottom: 40px;
     margin-top: 30px;
